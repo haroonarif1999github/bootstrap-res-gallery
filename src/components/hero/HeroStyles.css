@@ -1,0 +1,22 @@
+.hero-text {
+    position: relative;
+    top: 300px;
+    letter-spacing: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.strongg {
+    background-color: black;
+    padding: 15px;
+    opacity: 0.6;
+    color: white;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
